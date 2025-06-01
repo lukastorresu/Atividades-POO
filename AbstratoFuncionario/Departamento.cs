@@ -15,10 +15,11 @@ namespace AbstratoFuncionario
         {
             Codigo = codigo;
             Nome = nome;
+            VetF = new List<Funcionario>();
         }
         public void Admitir(Funcionario f)
         {
-            VetF.Add(f);   
+            VetF.Add(f);
         }
         public void Demitir(int codigo)
         {
@@ -49,6 +50,13 @@ namespace AbstratoFuncionario
                 folha += f.CalcularSalario(diasUteis);
             }
             return folha;
+        }
+            public void MostrarQtdeDependentesFuncionario()
+        {
+            foreach (Funcionario f in VetF)
+            {
+                Console.WriteLine($"\nO funcionário {f.Nome} tem {f.CalcularTotalDependente()} dependente(s).");
+            }
         }
     }
 }

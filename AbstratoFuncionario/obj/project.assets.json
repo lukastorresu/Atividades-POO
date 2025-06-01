@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\giova\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_20251\\POO_noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\GitHub\\Atividades-POO\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
       "projectName": "AbstratoFuncionario",
-      "projectPath": "D:\\_20251\\POO_noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
-      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "D:\\_20251\\POO_noite\\AbstratoFuncionario\\obj\\",
+      "projectPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Atividades-POO\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Atividades-POO\\AbstratoFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
