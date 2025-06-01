@@ -1,0 +1,14 @@
+D:\_20251\POO_noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.exe
+D:\_20251\POO_noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.deps.json
+D:\_20251\POO_noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.runtimeconfig.json
+D:\_20251\POO_noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.dll
+D:\_20251\POO_noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.pdb
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfoInputs.cache
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfo.cs
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.csproj.CoreCompileInputs.cache
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.dll
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\refint\ConstrutorConta.dll
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.pdb
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.genruntimeconfig.cache
+D:\_20251\POO_noite\ConstrutorConta\obj\Debug\net8.0\ref\ConstrutorConta.dll

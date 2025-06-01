@@ -1,0 +1,14 @@
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfo.cs
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+D:\_20251\POO_noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.exe
+D:\_20251\POO_noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.deps.json
+D:\_20251\POO_noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.runtimeconfig.json
+D:\_20251\POO_noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.dll
+D:\_20251\POO_noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.pdb
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.dll
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\refint\AbstratoFuncionario.dll
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.pdb
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.genruntimeconfig.cache
+D:\_20251\POO_noite\AbstratoFuncionario\obj\Debug\net8.0\ref\AbstratoFuncionario.dll

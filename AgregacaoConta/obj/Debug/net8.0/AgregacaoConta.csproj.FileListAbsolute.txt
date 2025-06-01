@@ -1,0 +1,14 @@
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.AssemblyInfoInputs.cache
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.AssemblyInfo.cs
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+D:\_20251\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.exe
+D:\_20251\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.deps.json
+D:\_20251\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.runtimeconfig.json
+D:\_20251\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.dll
+D:\_20251\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.pdb
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.dll
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\refint\AgregacaoConta.dll
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.pdb
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.genruntimeconfig.cache
+D:\_20251\POO_noite\AgregacaoConta\obj\Debug\net8.0\ref\AgregacaoConta.dll

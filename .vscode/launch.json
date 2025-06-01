@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: ClasseConta",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\ClasseConta\\ClasseConta.csproj",
+            "launchConfigurationId": "TargetFramework=;Revisao"
+        }
+    ]
+}

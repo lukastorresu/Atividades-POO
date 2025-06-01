@@ -1,0 +1,4 @@
+C:\Users\Lucas\Documents\GitHub\POO_noite\obj\Debug\net8.0\POO_noite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\POO_noite\obj\Debug\net8.0\POO_noite.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\POO_noite\obj\Debug\net8.0\POO_noite.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\POO_noite\obj\Debug\net8.0\POO_noite.csproj.CoreCompileInputs.cache

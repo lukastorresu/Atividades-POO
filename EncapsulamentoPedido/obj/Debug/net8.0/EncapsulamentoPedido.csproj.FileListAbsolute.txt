@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.exe
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.deps.json
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.dll
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.pdb
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.dll
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\refint\EncapsulamentoPedido.dll
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.pdb
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\POO_noite\EncapsulamentoPedido\obj\Debug\net8.0\ref\EncapsulamentoPedido.dll

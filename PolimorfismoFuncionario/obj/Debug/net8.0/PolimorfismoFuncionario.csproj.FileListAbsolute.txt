@@ -1,0 +1,14 @@
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.AssemblyInfoInputs.cache
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.AssemblyInfo.cs
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+D:\_20251\POO_noite\PolimorfismoFuncionario\bin\Debug\net8.0\PolimorfismoFuncionario.exe
+D:\_20251\POO_noite\PolimorfismoFuncionario\bin\Debug\net8.0\PolimorfismoFuncionario.deps.json
+D:\_20251\POO_noite\PolimorfismoFuncionario\bin\Debug\net8.0\PolimorfismoFuncionario.runtimeconfig.json
+D:\_20251\POO_noite\PolimorfismoFuncionario\bin\Debug\net8.0\PolimorfismoFuncionario.dll
+D:\_20251\POO_noite\PolimorfismoFuncionario\bin\Debug\net8.0\PolimorfismoFuncionario.pdb
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.dll
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\refint\PolimorfismoFuncionario.dll
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.pdb
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.genruntimeconfig.cache
+D:\_20251\POO_noite\PolimorfismoFuncionario\obj\Debug\net8.0\ref\PolimorfismoFuncionario.dll
