@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.exe
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.deps.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.sourcelink.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\refint\InterfaceTributavel.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\InterfaceTributavel\obj\Debug\net8.0\ref\InterfaceTributavel.dll
