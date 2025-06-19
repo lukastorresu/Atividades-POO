@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\bin\Debug\net8.0\Exception.exe
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\bin\Debug\net8.0\Exception.deps.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\bin\Debug\net8.0\Exception.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\bin\Debug\net8.0\Exception.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\bin\Debug\net8.0\Exception.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.sourcelink.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\refint\Exception.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\ExceptionIdade\obj\Debug\net8.0\ref\Exception.dll
