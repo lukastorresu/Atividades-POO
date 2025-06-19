@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\bin\Debug\net8.0\OCP.exe
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\bin\Debug\net8.0\OCP.deps.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\bin\Debug\net8.0\OCP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\bin\Debug\net8.0\OCP.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.sourcelink.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\refint\OCP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\OCP\obj\Debug\net8.0\ref\OCP.dll
