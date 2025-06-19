@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\bin\Debug\net8.0\SRP.exe
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\bin\Debug\net8.0\SRP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\bin\Debug\net8.0\SRP.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.sourcelink.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\SRP\obj\Debug\net8.0\ref\SRP.dll
