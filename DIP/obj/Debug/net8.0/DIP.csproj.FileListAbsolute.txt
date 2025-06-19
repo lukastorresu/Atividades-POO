@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.sourcelink.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\bin\Debug\net8.0\DIP.exe
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\bin\Debug\net8.0\DIP.deps.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\bin\Debug\net8.0\DIP.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\bin\Debug\net8.0\DIP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\bin\Debug\net8.0\DIP.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\refint\DIP.dll
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.pdb
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\Atividades-POO\DIP\obj\Debug\net8.0\ref\DIP.dll
