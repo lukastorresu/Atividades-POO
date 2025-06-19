@@ -14,9 +14,9 @@ class Program
         ICalculadoraSalarios calculadoraPermanente = new FuncionarioPermanente();
         ICalculadoraSalarios calculadoraContrato = new FuncionarioContrato();
         
-        Console.WriteLine($"Salário de {funcionario1.Nome} (Permanente): {calculadoraPermanente.CalcularSalario(funcionario1)}");
-        Console.WriteLine($"Salário de {funcionario1.Nome} (Contrato): {calculadoraContrato.CalcularSalario(funcionario1)}");
-        Console.WriteLine($"Salário de {funcionario2.Nome} (Permanente): {calculadoraPermanente.CalcularSalario(funcionario2)}");
-        Console.WriteLine($"Salário de {funcionario2.Nome} (Contrato): {calculadoraContrato.CalcularSalario(funcionario2)}");
+        Console.WriteLine($"Salário de {funcionario1.Nome} (Permanente): {calculadoraPermanente.CalcularSalario(funcionario1):c}");
+        Console.WriteLine($"Salário de {funcionario1.Nome} (Contrato): {calculadoraContrato.CalcularSalario(funcionario1):c}");
+        Console.WriteLine($"Salário de {funcionario2.Nome} (Permanente): {calculadoraPermanente.CalcularSalario(funcionario2):c}");
+        Console.WriteLine($"Salário de {funcionario2.Nome} (Contrato): {calculadoraContrato.CalcularSalario(funcionario2):c}");
     }
 }
